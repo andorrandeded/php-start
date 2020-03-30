@@ -1,4 +1,3 @@
-<?what's going on>
 <html>
 <head></head>
 <body>
